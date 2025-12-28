@@ -74,13 +74,13 @@ Estudiante de **Ingeniería de Sistemas** y developer enfocado en construir prod
 > Cambia los links a tus repos reales cuando los tengas públicos.
 
 - **SGI – Sistema de Gestión de Inventario** (Laravel + React + Inertia + PostgreSQL)  
-  🔗 https://github.com/TU_USUARIO/REPO_SGI
+  🔗 https://github.com/PieroL1/REPO_SGI
 
 - **OrgUNS – Agenda Android** (Kotlin/Android + Firebase)  
-  🔗 https://github.com/TU_USUARIO/REPO_ORGUNS
+  🔗 https://github.com/PieroL1/REPO_ORGUNS
 
 - **Noticiero / Web App** (Laravel + React + Deploy en Cloud)  
-  🔗 https://github.com/TU_USUARIO/REPO_NOTICIERO
+  🔗 https://github.com/PieroL1/REPO_NOTICIERO
 
 ---
 
