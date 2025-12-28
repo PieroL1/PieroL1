@@ -1,21 +1,15 @@
+
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=170&text=Piero%20Alexandro%20Liza%20Guerrero&fontAlign=50&fontAlignY=45&fontSize=40&desc=Chrome%20%E2%80%A2%20Full-Stack%20(Laravel%20%2B%20React%20%2B%20Inertia)%20%E2%80%A2%20Android%20(Kotlin)%20%E2%80%A2%20Cloud%20(GCP)&descAlign=50&descAlignY=75" />
 
 <p>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://TU_PORTAFOLIO">
-    <img src="https://img.shields.io/badge/Portafolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:TU_CORREO">
-    <img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p>
   <img src="https://komarev.com/ghpvc/?username=PieroL1&label=Profile%20views&style=flat" />
+  <img src="https://img.shields.io/github/followers/PieroL1?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/last-commit/PieroL1/PieroL1?label=Last%20update&style=flat" />
 </p>
 
 </div>
@@ -23,26 +17,26 @@
 ---
 
 ## 👋 Sobre mí
-Soy **Piero Alexandro Liza Guerrero**.  
+Soy **Piero Alexandro Liza Guerrero** (aka **Chrome**).  
 Estudiante de **Ingeniería de Sistemas** y dev enfocado en construir productos con **arquitectura clara**, UI limpia y despliegues reales.
 
-**Stack principal con el que trabajo:**
-- **Backend:** Laravel (PHP) + APIs/CRUDs bien estructurados
-- **Frontend:** React + Inertia (TypeScript cuando conviene) + Tailwind
+**Stack principal:**
+- **Backend:** Laravel (PHP) • APIs/CRUDs bien estructurados
+- **Frontend:** React + Inertia • Tailwind • TypeScript cuando conviene
 - **Data:** PostgreSQL / MySQL
 - **Mobile:** Android (Kotlin) + Firebase
-- **Cloud/DevOps:** Linux, Docker y despliegues (GCP)
+- **Cloud/DevOps:** Linux • Docker • despliegues en GCP
 
 ---
 
 ## 🎯 En qué ando metido ahora
-- Armar apps full-stack con **Laravel + React + Inertia** (enfoque: mantenibilidad + performance decente)
+- Full-stack con **Laravel + React + Inertia** (mantenibilidad primero)
 - Android con **Kotlin + Firebase** (auth, sync, UX)
-- Mejorar “lo que no se ve”: **estructura del proyecto, documentación útil y deploy**
+- Mejorar “lo que no se ve”: **estructura, documentación útil y deploy**
 
 ---
 
-## 🧰 Tecnologías (rápido de escanear)
+## 🧰 Tecnologías
 
 ### Lenguajes
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -71,8 +65,6 @@ Estudiante de **Ingeniería de Sistemas** y dev enfocado en construir productos 
 ---
 
 ## 🚀 Proyectos (en progreso)
-> Prefiero no poner links fake. Cuando estén públicos, los fijo (Pin) y los enlazo aquí.
-
 - **SGI – Sistema de Gestión de Inventario**  
   **Laravel + React + Inertia + PostgreSQL**  
   Enfoque: módulos CRUD, roles/permisos, reportes, UI consistente.
@@ -89,21 +81,13 @@ Estudiante de **Ingeniería de Sistemas** y dev enfocado en construir productos 
 
 ## 🧠 Estilo de trabajo
 - Arquitectura clara (capas y responsabilidades bien separadas)
-- README + documentación mínima útil (para que otro lo levante rápido)
-- Deploy cuando aplica (siempre que se pueda, salida a “mundo real”)
+- README + documentación mínima útil
+- Deploy cuando aplica (salida a “mundo real” cuando se puede)
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=PieroL1" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=PieroL1" />
 </div>
 
----
-
-<div align="center">
-
-**¿Colab o proyecto serio?**  
-📩 *LinkedIn / Email (arriba)*
-
-</div>
