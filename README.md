@@ -71,7 +71,7 @@ Estudiante de **Ingeniería de Sistemas** y developer enfocado en construir prod
 ---
 
 ## 🚀 Proyectos (selección)
-> Cambia los links a tus repos reales cuando los tengas públicos.
+> Los links serán actualizados a unos reales cuando los proyectos estén terminados.
 
 - **SGI – Sistema de Gestión de Inventario** (Laravel + React + Inertia + PostgreSQL)  
   🔗 https://github.com/PieroL1/REPO_SGI
@@ -94,9 +94,9 @@ Estudiante de **Ingeniería de Sistemas** y developer enfocado en construir prod
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PieroL1&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PieroL1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieroL1&layout=compact" />
 </div>
 
 ---
