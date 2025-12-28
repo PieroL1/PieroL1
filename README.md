@@ -94,11 +94,9 @@ Estudiante de **Ingeniería de Sistemas** y dev enfocado en construir productos 
 
 ---
 
-## 📊 GitHub Stats (corregido)
+## 📊 GitHub Stats
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PieroL1&show_icons=true&hide_title=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=PieroL1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieroL1&layout=compact" />
 </div>
 
 ---
