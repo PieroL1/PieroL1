@@ -23,7 +23,7 @@
 ---
 
 ## 👋 Sobre mí
-Soy **Piero Alexandro Liza Guerrero** (aka **Chrome**).  
+Soy **Piero Alexandro Liza Guerrero**.  
 Estudiante de **Ingeniería de Sistemas** y dev enfocado en construir productos con **arquitectura clara**, UI limpia y despliegues reales.
 
 **Stack principal con el que trabajo:**
