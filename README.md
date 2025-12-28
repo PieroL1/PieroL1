@@ -42,7 +42,7 @@ Estudiante de **Ingeniería de Sistemas** y dev enfocado en construir productos 
 
 ---
 
-## 🧰 Tecnologías (rápido de escanear)
+## 🧰 Tecnologías
 
 ### Lenguajes
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
